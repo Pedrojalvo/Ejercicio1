@@ -1,9 +1,9 @@
-package main;
+package principal;
 
 import dominio.Matematicas;
 import java.util.*;
 
-public class Main {
+public class Principal {
 
     public static void main(String[] args) {
         int n = 9;
